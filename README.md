@@ -11,7 +11,7 @@ framework like php laravel javascript Nodejs as well as wordpress.
 - 🌱 I’m currently learning Data Structures and Algorithms, Nodejs, Laravel. 
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Objective C
-- 💬 Ask me about I will try
+- 💬 Ask me about anything: I will try
 - 📫 How to reach me: muheDev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I would love to vacate from my country.
