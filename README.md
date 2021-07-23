@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm Emmanuel Usman a Backend engineer. and technical writer based in Lagos, Nigeria.
-I’m passionate about exploring new languages. I really love learning new languages and their
-framework like php laravel javascript Nodejs as well as wordpress.
+I'm Emmanuel Usman, a Backend engineer and technical writer based in Lagos, Nigeria.
+
+I’m passionate about exploring new languages. I really love learning new languages and their frameworks,
+
+like PHP, Laravel, Javascript, Nodejs, as well as WordPress.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmy70&show_icons=true)
 
